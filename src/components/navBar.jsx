@@ -6,7 +6,7 @@ const navBar = () => {
         <header>
           <nav className="navbar">
             <div className="logo">
-              <a href="#">Marias Estética</a>
+              <a href="#">Maria Bothanica Estética</a>
             </div>
             <ul className="nav-links">
               <li><a href="#home">Tratamentos Corporais</a></li>
